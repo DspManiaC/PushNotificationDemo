@@ -1,0 +1,18 @@
+BaseUrl: eg.
+https://youthful-poincare-3e1239.netlify.app
+
+To get token Use 
+https://youthful-poincare-3e1239.netlify.app/fcm_page
+
+https://youthful-poincare-3e1239.netlify.app/firebase-messaging-sw.js
+
+Dummy Token :-
+cRNOLdX6azJSLuqw0e7e5W:APA91bFeQNc3_vmsNW00SfByqCJK-Ft9kNRENVCEkYccJ6AixQLlcYZ8n15lToZm48LxyIbnLUDP4QOvLeAni7GCV3BE3btsCXU1DlQddU68KSfVhDbXdi5orH-xx8TxWZ3tsACzYef2
+
+Use API :-  /api/v1/Rabbitmq/SendNotification
+
+{
+  "toFcmTokens": "cRNOLdX6azJSLuqw0e7e5W:APA91bFeQNc3_vmsNW00SfByqCJK-Ft9kNRENVCEkYccJ6AixQLlcYZ8n15lToZm48LxyIbnLUDP4QOvLeAni7GCV3BE3btsCXU1DlQddU68KSfVhDbXdi5orH-xx8TxWZ3tsACzYef2",
+  "message": "Hello from notification",
+  "title": "GG"
+}
